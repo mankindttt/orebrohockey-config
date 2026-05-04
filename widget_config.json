@@ -1,10 +1,10 @@
 [
   {
-    "type": "newsFeed",
+    "type": "nextGame",
     "enabled": true
   },
   {
-    "type": "nextGame",
+    "type": "newsFeed",
     "enabled": true
   },
   {
