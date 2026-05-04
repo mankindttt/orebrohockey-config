@@ -1,22 +1,17 @@
 [
   {
     "type": "nextGame",
-    "enabled": true
+    "enabled": true,
+    "title": "N\u00e4sta match"
   },
   {
     "type": "standings",
-    "enabled": true
+    "enabled": true,
+    "title": "Serietabell"
   },
   {
     "type": "newsFeed",
-    "enabled": true
-  },
-  {
-    "type": "partnerAds",
-    "enabled": false
-  },
-  {
-    "type": "social",
-    "enabled": false
+    "enabled": true,
+    "title": "Nyheter"
   }
 ]
