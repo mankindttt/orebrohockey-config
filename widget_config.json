@@ -4,11 +4,11 @@
     "enabled": true
   },
   {
-    "type": "newsFeed",
+    "type": "standings",
     "enabled": true
   },
   {
-    "type": "standings",
+    "type": "newsFeed",
     "enabled": true
   },
   {
