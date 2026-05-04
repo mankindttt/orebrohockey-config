@@ -1,0 +1,37 @@
+{
+  "offers": [
+    {
+      "id": "moqu1ewxqpkb",
+      "title": "50% rabatt på matchtröjor",
+      "description": "Alla matchtröjor i Örebro HK-butiken kostar 50% mindre under kampanjperioden. Passa på!",
+      "startDate": "2025-09-01",
+      "endDate": "2026-12-30",
+      "partnerId": "mopig1zf6mtu",
+      "partnerName": "Löwdahls Mat",
+      "url": "https://shop.orebrohockey.se",
+      "imageUrl": ""
+    },
+    {
+      "id": "moqu1ewx12wn",
+      "title": "Gratis provträning på Friskis",
+      "description": "Testa träning gratis i en hel vecka på valfri Friskis & Svettis i Örebro.",
+      "startDate": "2025-10-01",
+      "endDate": "2025-10-31",
+      "partnerName": "Svensk Film",
+      "partnerId": "mopig1zf7y7m",
+      "url": "https://friskissvettis.se/orebro",
+      "imageUrl": ""
+    },
+    {
+      "id": "moqu1ewxnbou",
+      "title": "20% rabatt – Hockey Academy",
+      "description": "Boka sommarcamp för barn och ungdomar med 20% rabatt med kod OREBROHK.",
+      "startDate": "2025-06-01",
+      "endDate": "2027-12-31",
+      "partnerId": "mopig1zf25s1",
+      "partnerName": "Bauer Hockey",
+      "url": "https://hockeyacademy.se",
+      "imageUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "partners": [
+    {
+      "name": "Bauer Hockey",
+      "level": "Huvudpartner",
+      "orgNumber": "556789-1234",
+      "email": "info@bauer.com",
+      "phone": "019-12 34 56",
+      "website": "https://www.bauer.com",
+      "address": "Storgatan 1",
+      "postalCode": "70123",
+      "city": "Örebro",
+      "id": "mopig1zf25s1"
+    },
+    {
+      "name": "Kalles Bygg",
+      "level": "Företagspartners",
+      "orgNumber": "123456-7891",
+      "email": "info@hemsida.com",
+      "phone": "019-121212",
+      "website": "http://orebrohockey.se",
+      "address": "Gatan 1",
+      "postalCode": "70223",
+      "city": "Örebro",
+      "id": "mopig1zf2twy"
+    },
+    {
+      "name": "Luddes Svets",
+      "level": "Officiella Partners",
+      "orgNumber": "123456-7892",
+      "email": "info@hemsida.com",
+      "phone": "019-121212",
+      "website": "http://orebrohockey.se",
+      "address": "Gatan 1",
+      "postalCode": "70223",
+      "city": "Örebro",
+      "id": "mopig1zfisea"
+    },
+    {
+      "name": "Löwdahls Mat",
+      "level": "Officiella Partners",
+      "orgNumber": "123456-7893",
+      "email": "info@hemsida.com",
+      "phone": "019-121212",
+      "website": "http://orebrohockey.se",
+      "address": "Gatan 1",
+      "postalCode": "70223",
+      "city": "Örebro",
+      "id": "mopig1zf6mtu"
+    },
+    {
+      "name": "Svensk Film",
+      "level": "Företagspartners",
+      "orgNumber": "123456-7894",
+      "email": "info@hemsida.com",
+      "phone": "019-121212",
+      "website": "http://orebrohockey.se",
+      "address": "Gatan 1",
+      "postalCode": "70223",
+      "city": "Örebro",
+      "id": "mopig1zf7y7m"
+    },
+    {
+      "name": "Amerikansk Film",
+      "level": "In Frigore-partner",
+      "orgNumber": "123456-7895",
+      "email": "info@hemsida.com",
+      "phone": "019-121212",
+      "website": "http://orebrohockey.se",
+      "address": "Gatan 1",
+      "postalCode": "70223",
+      "city": "Örebro",
+      "id": "mopig1zfy1o3"
+    }
+  ]
+}

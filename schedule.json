@@ -1,0 +1,40 @@
+{
+  "games": [
+    {
+      "opponent": "Frölunda",
+      "opponentShort": "FHC",
+      "date": "2026-04-27",
+      "time": "19:00",
+      "isHome": true,
+      "result": {
+        "goalsFor": 9,
+        "goalsAgainst": 1,
+        "overtime": false
+      }
+    },
+    {
+      "opponent": "Björklöven",
+      "opponentShort": "IFB",
+      "date": "2026-09-24",
+      "time": "19:00",
+      "isHome": true,
+      "result": null
+    },
+    {
+      "opponent": "Färjestad",
+      "opponentShort": "FBK",
+      "date": "2026-09-29",
+      "time": "19:00",
+      "isHome": false,
+      "result": null
+    },
+    {
+      "opponent": "Frölunda",
+      "opponentShort": "FHC",
+      "date": "2026-10-01",
+      "time": "19:00",
+      "isHome": true,
+      "result": null
+    }
+  ]
+}

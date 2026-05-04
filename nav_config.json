@@ -1,0 +1,26 @@
+[
+  {
+    "id": "home",
+    "enabled": true
+  },
+  {
+    "id": "schedule",
+    "enabled": true
+  },
+  {
+    "id": "players",
+    "enabled": true
+  },
+  {
+    "id": "offers",
+    "enabled": true
+  },
+  {
+    "id": "partners",
+    "enabled": false
+  },
+  {
+    "id": "mer",
+    "enabled": true
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "type": "nextGame",
+    "enabled": true
+  },
+  {
+    "type": "newsFeed",
+    "enabled": true
+  },
+  {
+    "type": "standings",
+    "enabled": true
+  },
+  {
+    "type": "partnerAds",
+    "enabled": false
+  },
+  {
+    "type": "social",
+    "enabled": false
+  }
+]
