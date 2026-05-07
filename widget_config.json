@@ -29,5 +29,11 @@
     "id": "ad_1778181565015",
     "title": "annons1",
     "enabled": true
+  },
+  {
+    "type": "ad",
+    "id": "ad_1778181589308",
+    "title": "annons2",
+    "enabled": true
   }
 ]
