@@ -21,6 +21,11 @@
     "title": "Serietabell"
   },
   {
+    "type": "youtube",
+    "enabled": true,
+    "title": "Highlights"
+  },
+  {
     "type": "partnerAds",
     "enabled": false,
     "title": "Partner"
