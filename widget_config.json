@@ -29,11 +29,5 @@
     "type": "social",
     "enabled": false,
     "title": "Sociala medier"
-  },
-  {
-    "type": "ad",
-    "id": "ad_1778181589308",
-    "title": "annons2",
-    "enabled": true
   }
 ]
