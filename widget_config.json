@@ -1,5 +1,9 @@
 [
   {
+    "type": "ads",
+    "enabled": true
+  },
+  {
     "type": "newsFeed",
     "enabled": true
   },
@@ -9,10 +13,6 @@
   },
   {
     "type": "standings",
-    "enabled": true
-  },
-  {
-    "type": "ads",
     "enabled": true
   },
   {
