@@ -1,26 +1,39 @@
 [
   {
-    "type": "ads",
-    "enabled": true
-  },
-  {
-    "type": "newsFeed",
+    "type": "ad",
+    "id": "ad_1778178612449",
+    "title": "annons1",
     "enabled": true
   },
   {
     "type": "nextGame",
-    "enabled": true
+    "enabled": true,
+    "title": "Nästa match"
+  },
+  {
+    "type": "newsFeed",
+    "enabled": true,
+    "title": "Nyheter"
   },
   {
     "type": "standings",
-    "enabled": true
+    "enabled": true,
+    "title": "Serietabell"
   },
   {
     "type": "partnerAds",
-    "enabled": false
+    "enabled": false,
+    "title": "Partner"
   },
   {
     "type": "social",
-    "enabled": false
+    "enabled": false,
+    "title": "Sociala medier"
+  },
+  {
+    "type": "ad",
+    "id": "ad_1778178627108",
+    "title": "annons2",
+    "enabled": true
   }
 ]
