@@ -16,14 +16,14 @@
     "title": "Nyheter"
   },
   {
-    "type": "standings",
-    "enabled": true,
-    "title": "Serietabell"
-  },
-  {
     "type": "youtube",
     "enabled": true,
     "title": "Highlights"
+  },
+  {
+    "type": "standings",
+    "enabled": true,
+    "title": "Serietabell"
   },
   {
     "type": "partnerAds",
