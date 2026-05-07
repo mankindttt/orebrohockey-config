@@ -1,11 +1,5 @@
 [
   {
-    "type": "ad",
-    "id": "ad_1778180417219",
-    "title": "annons1",
-    "enabled": true
-  },
-  {
     "type": "nextGame",
     "enabled": true,
     "title": "Nästa match"
