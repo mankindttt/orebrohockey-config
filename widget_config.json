@@ -23,5 +23,11 @@
     "type": "social",
     "enabled": false,
     "title": "Sociala medier"
+  },
+  {
+    "type": "ad",
+    "id": "ad_1778181565015",
+    "title": "annons1",
+    "enabled": true
   }
 ]
