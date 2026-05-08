@@ -1,5 +1,10 @@
 [
   {
+    "type": "podcast",
+    "enabled": true,
+    "title": "Podcast"
+  },
+  {
     "type": "ad",
     "id": "ad_1778181565015",
     "title": "annons1",
