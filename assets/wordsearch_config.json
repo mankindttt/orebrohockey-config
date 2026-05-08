@@ -1,16 +1,17 @@
 {
   "variants": [
     {
-      "id": "ws-1778276253843",
-      "name": "Örebrolegender",
+      "id": "ws-1778276814247",
+      "name": "Örebrolegends",
       "difficulty": "medium",
       "words": [
         "LÖWDAHL",
-        "WEINSTOCK",
-        "HUDACEK",
         "AULIN",
+        "WEINSTOCK",
         "RYAN",
-        "ALMQVIST"
+        "ALMQVIST",
+        "HUDACEK",
+        "LIIVIK"
       ]
     }
   ]
