@@ -7,7 +7,7 @@
   {
     "type": "ad",
     "id": "ad_1778181565015",
-    "title": "annons1",
+    "title": "Annons1",
     "enabled": true
   },
   {
@@ -29,15 +29,5 @@
     "type": "standings",
     "enabled": true,
     "title": "Serietabell"
-  },
-  {
-    "type": "partnerAds",
-    "enabled": false,
-    "title": "Partner"
-  },
-  {
-    "type": "social",
-    "enabled": false,
-    "title": "Sociala medier"
   }
 ]
