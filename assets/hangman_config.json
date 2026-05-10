@@ -61,12 +61,6 @@
       "hint": "Zonen måste gå in korrekt"
     },
     {
-      "id": "h14",
-      "word": "MODO HOCKEY",
-      "category": "SHL-Lag",
-      "hint": "Ornsköldsviksklubb med stor tradition"
-    },
-    {
       "id": "h1778432760105",
       "word": "ÖREBRO HOCKEY",
       "category": "SHL-Lag"
@@ -90,6 +84,51 @@
       "id": "h1778432899654",
       "word": "ÖREBRO HOCKEYS PODCAST",
       "category": "Örebro Hockey-relaterat"
+    },
+    {
+      "id": "h1778438340114",
+      "word": "VÄXJÖ LAKERS",
+      "category": "SHL-Lag"
+    },
+    {
+      "id": "h1778438347459",
+      "word": "RÖGLE BK",
+      "category": "SHL-Lag"
+    },
+    {
+      "id": "h1778438359101",
+      "word": "BRYNÄS IF",
+      "category": "SHL-Lag"
+    },
+    {
+      "id": "h1778438367808",
+      "word": "LULEÅ HOCKEY",
+      "category": "SHL-Lag"
+    },
+    {
+      "id": "h1778438380183",
+      "word": "MALMÖ REDHAWKS",
+      "category": "SHL-Lag"
+    },
+    {
+      "id": "h1778438394742",
+      "word": "LINKÖPING HC",
+      "category": "SHL-Lag"
+    },
+    {
+      "id": "h1778438403066",
+      "word": "TIMRÅ IK",
+      "category": "SHL-Lag"
+    },
+    {
+      "id": "h1778438410641",
+      "word": "HV71",
+      "category": "SHL-Lag"
+    },
+    {
+      "id": "h1778438422599",
+      "word": "BJÖRKLÖVEN",
+      "category": "SHL-Lag"
     }
   ]
 }
