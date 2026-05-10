@@ -129,6 +129,66 @@
       "id": "h1778438422599",
       "word": "BJÖRKLÖVEN",
       "category": "SHL-Lag"
+    },
+    {
+      "id": "h1778438484945",
+      "word": "FÖRLÄNGNING",
+      "category": "Hockeytermer"
+    },
+    {
+      "id": "h1778438492712",
+      "word": "STRAFFLÄGGNING",
+      "category": "Hockeytermer"
+    },
+    {
+      "id": "h1778438496678",
+      "word": "BOXPLAY",
+      "category": "Hockeytermer"
+    },
+    {
+      "id": "h1778438504561",
+      "word": "MÅLVAKT",
+      "category": "Hockeytermer"
+    },
+    {
+      "id": "h1778438507877",
+      "word": "FORWARD",
+      "category": "Hockeytermer"
+    },
+    {
+      "id": "h1778438510866",
+      "word": "BACK",
+      "category": "Hockeytermer"
+    },
+    {
+      "id": "h1778438520469",
+      "word": "OT",
+      "category": "Hockeytermer"
+    },
+    {
+      "id": "h1778438540640",
+      "word": "DEREK RYAN",
+      "category": "Örebro Hockey-spelare"
+    },
+    {
+      "id": "h1778438547252",
+      "word": "SIIM LIIVIK",
+      "category": "Örebro Hockey-spelare"
+    },
+    {
+      "id": "h1778438564752",
+      "word": "RASTISLAV PAVLIKOVSKY",
+      "category": "Örebro Hockey-spelare"
+    },
+    {
+      "id": "h1778438580360",
+      "word": "SAKARI MANNINEN",
+      "category": "Örebro Hockey-spelare"
+    },
+    {
+      "id": "h1778438608605",
+      "word": "JONAS ALMQVIST",
+      "category": "Örebro Hockey-spelare"
     }
   ]
 }
