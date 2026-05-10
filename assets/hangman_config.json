@@ -1,0 +1,70 @@
+{
+  "words": [
+    {
+      "id": "h1",
+      "word": "PATRIK KARLKVIST",
+      "category": "Örebro Hockey-spelare",
+      "hint": "Oj oj"
+    },
+    {
+      "id": "h2",
+      "word": "BEHRN ARENA",
+      "category": "Örebro HK",
+      "hint": "Örebro HK:s hemmaplan"
+    },
+    {
+      "id": "h3",
+      "word": "FRÖLUNDA HC",
+      "category": "SHL-lag",
+      "hint": "Göteborgsklubb med många SM-guld"
+    },
+    {
+      "id": "h4",
+      "word": "DJURGÅRDENS IF",
+      "category": "SHL-lag",
+      "hint": "Stockholmsklubb i rött och blått"
+    },
+    {
+      "id": "h5",
+      "word": "UTVISNING",
+      "category": "Hockeytermer",
+      "hint": "Straffet för regelbrott"
+    },
+    {
+      "id": "h6",
+      "word": "SLAGSKOTT",
+      "category": "Hockeytermer",
+      "hint": "Det kraftfullaste skottet"
+    },
+    {
+      "id": "h8",
+      "word": "SKELLEFTEÅ AIK",
+      "category": "SHL-lag",
+      "hint": "Vann SM-guld 2012 och 2013"
+    },
+    {
+      "id": "h9",
+      "word": "POWERPLAY",
+      "category": "Hockeytermer",
+      "hint": "Numerärt överläge på isen"
+    },
+    {
+      "id": "h10",
+      "word": "FÄRJESTAD BK",
+      "category": "SHL-lag",
+      "hint": "Karlstadklubb med många titlar"
+    },
+    {
+      "id": "h13",
+      "word": "OFFSIDE",
+      "category": "Hockeytermer",
+      "hint": "Zonen måste gå in korrekt"
+    },
+    {
+      "id": "h14",
+      "word": "MODO HOCKEY",
+      "category": "SHL-lag",
+      "hint": "Ornsköldsviksklubb med stor tradition"
+    }
+  ]
+}
