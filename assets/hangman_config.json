@@ -9,19 +9,19 @@
     {
       "id": "h2",
       "word": "BEHRN ARENA",
-      "category": "Örebro HK",
+      "category": "Örebro Hockey-relaterat",
       "hint": "Örebro HK:s hemmaplan"
     },
     {
       "id": "h3",
       "word": "FRÖLUNDA HC",
-      "category": "SHL-lag",
+      "category": "SHL-Lag",
       "hint": "Göteborgsklubb med många SM-guld"
     },
     {
       "id": "h4",
       "word": "DJURGÅRDENS IF",
-      "category": "SHL-lag",
+      "category": "SHL-Lag",
       "hint": "Stockholmsklubb i rött och blått"
     },
     {
@@ -39,7 +39,7 @@
     {
       "id": "h8",
       "word": "SKELLEFTEÅ AIK",
-      "category": "SHL-lag",
+      "category": "SHL-Lag",
       "hint": "Vann SM-guld 2012 och 2013"
     },
     {
@@ -51,7 +51,7 @@
     {
       "id": "h10",
       "word": "FÄRJESTAD BK",
-      "category": "SHL-lag",
+      "category": "SHL-Lag",
       "hint": "Karlstadklubb med många titlar"
     },
     {
@@ -63,8 +63,13 @@
     {
       "id": "h14",
       "word": "MODO HOCKEY",
-      "category": "SHL-lag",
+      "category": "SHL-Lag",
       "hint": "Ornsköldsviksklubb med stor tradition"
+    },
+    {
+      "id": "h1778432760105",
+      "word": "ÖREBRO HOCKEY",
+      "category": "SHL-Lag"
     }
   ]
 }
