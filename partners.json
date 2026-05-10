@@ -1573,16 +1573,17 @@
       "id": "mozfdkit6og4"
     },
     {
+      "id": "mozfdkit4z3y",
       "name": "BRL / Winn Scandinavia",
-      "level": "Huvudpartners",
       "orgNumber": "5567929632",
+      "level": "Huvudpartners",
       "email": "anders@winnscandinavia.com",
-      "phone": "",
-      "website": "",
-      "address": "",
-      "postalCode": "",
-      "city": "",
-      "id": "mozfdkit4z3y"
+      "phone": "019-20 67 50",
+      "website": "https://www.brl.se/",
+      "address": "Nastagatan 13",
+      "city": "Örebro",
+      "postalCode": "702 27",
+      "logo": ""
     },
     {
       "name": "AB Miljö & Energiservice AB, Örebro",
