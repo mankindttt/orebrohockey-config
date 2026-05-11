@@ -12,8 +12,142 @@
       "venue": "Behrn Arena",
       "league": "Försäsong",
       "badge": "Försäsong",
-      "result": null,
-      "detail": null
+      "ticketUrl": null,
+      "result": {
+        "goalsFor": 9,
+        "goalsAgainst": 0,
+        "overtime": false,
+        "shootout": false
+      },
+      "detail": {
+        "gameInfo": {
+          "spectators": 5503,
+          "teamPeriod": {
+            "stats": [
+              {
+                "periodName": 1,
+                "homeTeamValue": 5,
+                "awayTeamValue": 0
+              },
+              {
+                "periodName": 2,
+                "homeTeamValue": 3,
+                "awayTeamValue": 0
+              },
+              {
+                "periodName": 3,
+                "homeTeamValue": 1,
+                "awayTeamValue": 0
+              }
+            ]
+          }
+        },
+        "playByPlay": [
+          {
+            "type": "goal",
+            "period": 1,
+            "time": "00:19",
+            "eventTeam": {
+              "teamCode": "ÖRE"
+            },
+            "scorer": {
+              "fullName": "Tony Jörtsö"
+            },
+            "assists": [
+              {
+                "fullName": "Ludwig Andersson"
+              },
+              {
+                "fullName": "Karl Jennstig"
+              }
+            ],
+            "isPP": false,
+            "isSH": false,
+            "isEN": false,
+            "isPenaltyShot": false,
+            "homeScore": 1,
+            "awayScore": 0
+          }
+        ],
+        "teamStats": {
+          "home": {
+            "statistics": [
+              {
+                "period": 0,
+                "parsedTotalStatistics": [
+                  {
+                    "key": "SOG",
+                    "value": 49
+                  },
+                  {
+                    "key": "PPG",
+                    "value": 3
+                  },
+                  {
+                    "key": "NumPP",
+                    "value": 3
+                  },
+                  {
+                    "key": "PIM",
+                    "value": 0
+                  },
+                  {
+                    "key": "FOW",
+                    "value": 67
+                  },
+                  {
+                    "key": "Hits",
+                    "value": 87
+                  },
+                  {
+                    "key": "BkS",
+                    "value": 2
+                  }
+                ]
+              }
+            ],
+            "teamCode": "öre"
+          },
+          "away": {
+            "statistics": [
+              {
+                "period": 0,
+                "parsedTotalStatistics": [
+                  {
+                    "key": "SOG",
+                    "value": 4
+                  },
+                  {
+                    "key": "PPG",
+                    "value": 0
+                  },
+                  {
+                    "key": "NumPP",
+                    "value": 0
+                  },
+                  {
+                    "key": "PIM",
+                    "value": 6
+                  },
+                  {
+                    "key": "FOW",
+                    "value": 3
+                  },
+                  {
+                    "key": "Hits",
+                    "value": 4
+                  },
+                  {
+                    "key": "BkS",
+                    "value": 1
+                  }
+                ]
+              }
+            ],
+            "teamCode": "bik"
+          }
+        }
+      }
     }
   ]
 }
