@@ -1,339 +1,375 @@
 {
-  "players": [
+  "mensSupplements": [
     {
-      "firstName": "Jonas",
-      "lastName": "Arntzen",
       "jerseyNumber": 31,
       "birthDate": "1997-11-21",
-      "nationality": "NOR",
-      "contractUntil": "2028/29",
-      "position": "goalkeeper",
-      "team": "Herrlaget"
+      "contractUntil": "2028/29"
     },
     {
-      "firstName": "Filip",
-      "lastName": "Larsson",
       "jerseyNumber": 39,
       "birthDate": "1998-12-29",
-      "nationality": "SWE",
-      "contractUntil": "2027/28",
-      "position": "goalkeeper",
-      "team": "Herrlaget"
+      "contractUntil": "2027/28"
     },
     {
-      "firstName": "Erik",
-      "lastName": "Norén",
       "jerseyNumber": 4,
       "birthDate": "2001-03-21",
-      "nationality": "SWE",
-      "contractUntil": "2027/28",
-      "position": "defenseman",
-      "team": "Herrlaget"
+      "contractUntil": "2027/28"
     },
     {
-      "firstName": "Gustav",
-      "lastName": "Backström",
       "jerseyNumber": 5,
       "birthDate": "1995-01-03",
-      "nationality": "SWE",
-      "contractUntil": "2027/28",
-      "position": "defenseman",
-      "team": "Herrlaget"
+      "contractUntil": "2027/28"
     },
     {
-      "firstName": "Filip",
-      "lastName": "Berglund",
       "jerseyNumber": 6,
       "birthDate": "1997-05-10",
-      "nationality": "SWE",
-      "contractUntil": "2026/27",
-      "position": "defenseman",
-      "team": "Herrlaget"
+      "contractUntil": "2026/27"
     },
     {
-      "firstName": "Luke",
-      "lastName": "Martin",
       "jerseyNumber": 7,
       "birthDate": "1998-06-03",
-      "nationality": "USA",
-      "contractUntil": "2026/27",
-      "position": "defenseman",
-      "team": "Herrlaget"
+      "contractUntil": "2026/27"
     },
     {
-      "firstName": "Linus",
-      "lastName": "Arnesson",
       "jerseyNumber": 28,
       "birthDate": "1994-09-21",
-      "nationality": "SWE",
-      "contractUntil": "2027/28",
-      "position": "defenseman",
-      "team": "Herrlaget"
+      "contractUntil": "2027/28"
     },
     {
-      "firstName": "Theodor",
-      "lastName": "Hallquisth",
       "jerseyNumber": 41,
       "birthDate": "2007-06-14",
-      "nationality": "SWE",
-      "contractUntil": "2026/27",
-      "position": "defenseman",
-      "team": "Herrlaget"
+      "contractUntil": "2026/27"
     },
     {
-      "firstName": "Robin",
-      "lastName": "Salo",
       "jerseyNumber": 42,
       "birthDate": "1998-08-14",
-      "nationality": "FIN",
-      "contractUntil": "2027/28",
-      "position": "defenseman",
-      "team": "Herrlaget"
+      "contractUntil": "2027/28"
     },
     {
-      "firstName": "Sampo",
-      "lastName": "Ranta",
+      "jerseyNumber": 55,
+      "birthDate": "",
+      "contractUntil": ""
+    },
+    {
       "jerseyNumber": 10,
       "birthDate": "2000-05-31",
-      "nationality": "FIN",
-      "contractUntil": "2026/27",
-      "position": "forward",
-      "team": "Herrlaget"
+      "contractUntil": "2026/27"
     },
     {
-      "firstName": "Kalle",
-      "lastName": "Kossila",
       "jerseyNumber": 11,
       "birthDate": "1993-04-11",
-      "nationality": "FIN",
-      "contractUntil": "2027/28",
-      "position": "forward",
-      "team": "Herrlaget"
+      "contractUntil": "2027/28"
     },
     {
-      "firstName": "Liam",
-      "lastName": "Danielsson",
       "jerseyNumber": 14,
       "birthDate": "2006-08-05",
-      "nationality": "SWE",
-      "contractUntil": "2026/27",
-      "position": "forward",
-      "team": "Herrlaget"
+      "contractUntil": "2026/27"
     },
     {
-      "firstName": "William",
-      "lastName": "Wikman",
       "jerseyNumber": 17,
       "birthDate": "1997-09-14",
-      "nationality": "SWE",
-      "contractUntil": "2027/28",
-      "position": "forward",
-      "team": "Herrlaget"
+      "contractUntil": "2027/28"
     },
     {
-      "firstName": "Egor",
-      "lastName": "Polin",
       "jerseyNumber": 23,
       "birthDate": "2004-02-09",
-      "nationality": "SWE",
-      "contractUntil": "2027/28",
-      "position": "forward",
-      "team": "Herrlaget"
+      "contractUntil": "2027/28"
     },
     {
-      "firstName": "Milton",
-      "lastName": "Oscarson",
       "jerseyNumber": 29,
       "birthDate": "2003-01-06",
-      "nationality": "SWE",
-      "contractUntil": "2028/29",
-      "position": "forward",
-      "team": "Herrlaget"
+      "contractUntil": "2028/29"
     },
     {
-      "firstName": "Christopher",
-      "lastName": "Mastomäki",
       "jerseyNumber": 33,
       "birthDate": "1996-09-06",
-      "nationality": "SWE",
-      "contractUntil": "2027/28",
-      "position": "forward",
-      "team": "Herrlaget"
+      "contractUntil": "2027/28"
     },
     {
-      "firstName": "Glenn",
-      "lastName": "Gustafsson",
       "jerseyNumber": 37,
       "birthDate": "1998-02-15",
-      "nationality": "SWE",
-      "contractUntil": "2026/27",
-      "position": "forward",
-      "team": "Herrlaget"
+      "contractUntil": "2026/27"
     },
     {
-      "firstName": "Lucas",
-      "lastName": "Stockselius",
       "jerseyNumber": 71,
       "birthDate": "2005-10-25",
-      "nationality": "SWE",
-      "contractUntil": "2028/29",
-      "position": "forward",
-      "team": "Herrlaget"
+      "contractUntil": "2028/29"
     },
     {
-      "firstName": "Jesse",
-      "lastName": "Ylönen",
       "jerseyNumber": 72,
       "birthDate": "1999-10-03",
-      "nationality": "FIN",
-      "contractUntil": "2026/27",
-      "position": "forward",
-      "team": "Herrlaget"
+      "contractUntil": "2026/27"
     },
     {
-      "firstName": "Teemu",
-      "lastName": "Turunen",
       "jerseyNumber": 77,
       "birthDate": "1995-09-04",
-      "nationality": "FIN",
-      "contractUntil": "2026/27",
-      "position": "forward",
-      "team": "Herrlaget"
+      "contractUntil": "2026/27"
     },
     {
-      "firstName": "Patrik",
-      "lastName": "Karlkvist",
       "jerseyNumber": 89,
       "birthDate": "1992-08-13",
-      "nationality": "SWE",
-      "contractUntil": "2026/27",
-      "position": "forward",
-      "team": "Herrlaget"
-    },
+      "contractUntil": "2026/27"
+    }
+  ],
+  "womens": [
     {
       "firstName": "Thea",
       "lastName": "Liodden",
       "jerseyNumber": 31,
-      "position": "goalkeeper",
-      "nationality": "SWE",
+      "birthDate": "",
+      "nationality": "NOR",
       "contractUntil": "2027/28",
+      "position": "goalkeeper",
       "team": "Damlaget"
     },
     {
       "firstName": "Lillian",
       "lastName": "George",
       "jerseyNumber": 17,
-      "position": "forward",
+      "birthDate": "",
       "nationality": "CAN",
       "contractUntil": "2026/27",
+      "position": "forward",
       "team": "Damlaget"
     },
     {
       "firstName": "Stina",
       "lastName": "Röhticht",
       "jerseyNumber": 99,
-      "position": "forward",
+      "birthDate": "",
       "nationality": "SWE",
       "contractUntil": "2027/28",
+      "position": "forward",
       "team": "Damlaget"
     },
     {
       "firstName": "Anna",
       "lastName": "Kalová",
-      "jerseyNumber": 99,
-      "position": "forward",
+      "jerseyNumber": 88,
+      "birthDate": "",
       "nationality": "CZE",
       "contractUntil": "2027/28",
+      "position": "forward",
       "team": "Damlaget"
     },
     {
       "firstName": "Smilla",
       "lastName": "Eriksson",
       "jerseyNumber": 33,
-      "position": "defenseman",
+      "birthDate": "",
       "nationality": "SWE",
-      "contractUntil": "",
+      "contractUntil": "2026/27",
+      "position": "defenseman",
       "team": "Damlaget"
     },
     {
       "firstName": "Hannah",
       "lastName": "Melander",
       "jerseyNumber": 5,
-      "position": "defenseman",
+      "birthDate": "",
       "nationality": "SWE",
-      "contractUntil": "",
+      "contractUntil": "2027/28",
+      "position": "defenseman",
       "team": "Damlaget"
     },
     {
       "firstName": "Jenniina",
       "lastName": "Kuoppala",
       "jerseyNumber": 8,
-      "position": "defenseman",
+      "birthDate": "",
       "nationality": "FIN",
-      "contractUntil": "",
+      "contractUntil": "2027/28",
+      "position": "defenseman",
       "team": "Damlaget"
     },
     {
       "firstName": "Nikola",
       "lastName": "Dyckova",
       "jerseyNumber": 14,
-      "position": "forward",
+      "birthDate": "",
       "nationality": "CZE",
       "contractUntil": "",
+      "position": "forward",
       "team": "Damlaget"
     },
     {
       "firstName": "Clara",
       "lastName": "Eliasson",
       "jerseyNumber": 21,
-      "position": "forward",
+      "birthDate": "",
       "nationality": "SWE",
       "contractUntil": "",
+      "position": "forward",
       "team": "Damlaget"
     },
     {
       "firstName": "Agnes",
       "lastName": "Törnlund",
       "jerseyNumber": 23,
-      "position": "forward",
+      "birthDate": "",
       "nationality": "SWE",
-      "contractUntil": "",
+      "contractUntil": "2026/27",
+      "position": "forward",
       "team": "Damlaget"
     },
     {
       "firstName": "Wilma",
       "lastName": "Tagesson",
       "jerseyNumber": 95,
-      "position": "defenseman",
+      "birthDate": "",
       "nationality": "SWE",
       "contractUntil": "2026/27",
+      "position": "defenseman",
       "team": "Damlaget"
     },
     {
       "firstName": "Hedvig",
       "lastName": "Sköld",
       "jerseyNumber": 7,
-      "position": "defenseman",
+      "birthDate": "",
       "nationality": "SWE",
       "contractUntil": "2026/27",
+      "position": "defenseman",
       "team": "Damlaget"
     },
     {
       "firstName": "Gina",
       "lastName": "Kristiansen",
       "jerseyNumber": 18,
-      "position": "forward",
+      "birthDate": "",
       "nationality": "NOR",
       "contractUntil": "2026/27",
+      "position": "forward",
       "team": "Damlaget"
     },
     {
       "firstName": "Linnea",
       "lastName": "Horn",
       "jerseyNumber": 27,
-      "position": "forward",
+      "birthDate": "",
       "nationality": "SWE",
       "contractUntil": "2026/27",
+      "position": "forward",
+      "team": "Damlaget"
+    },
+    {
+      "firstName": "Lærke",
+      "lastName": "Søndergaard",
+      "jerseyNumber": 6,
+      "birthDate": "",
+      "nationality": "DK",
+      "contractUntil": "",
+      "position": "defenseman",
+      "team": "Damlaget"
+    },
+    {
+      "firstName": "Nenna",
+      "lastName": "Mehtonen",
+      "jerseyNumber": 9,
+      "birthDate": "",
+      "nationality": "FI",
+      "contractUntil": "",
+      "position": "defenseman",
+      "team": "Damlaget"
+    },
+    {
+      "firstName": "Ella",
+      "lastName": "Lindmark",
+      "jerseyNumber": 10,
+      "birthDate": "",
+      "nationality": "SE",
+      "contractUntil": "",
+      "position": "forward",
+      "team": "Damlaget"
+    },
+    {
+      "firstName": "Esteri",
+      "lastName": "Kalliomäki",
+      "jerseyNumber": 11,
+      "birthDate": "",
+      "nationality": "FI",
+      "contractUntil": "",
+      "position": "forward",
+      "team": "Damlaget"
+    },
+    {
+      "firstName": "Lovisa",
+      "lastName": "Samuelsson",
+      "jerseyNumber": 16,
+      "birthDate": "",
+      "nationality": "SE",
+      "contractUntil": "",
+      "position": "forward",
+      "team": "Damlaget"
+    },
+    {
+      "firstName": "Emma",
+      "lastName": "Johansson",
+      "jerseyNumber": 19,
+      "birthDate": "",
+      "nationality": "SE",
+      "contractUntil": "",
+      "position": "forward",
+      "team": "Damlaget"
+    },
+    {
+      "firstName": "Kajsa",
+      "lastName": "Armborg",
+      "jerseyNumber": 22,
+      "birthDate": "",
+      "nationality": "SE",
+      "contractUntil": "",
+      "position": "defenseman",
+      "team": "Damlaget"
+    },
+    {
+      "firstName": "Flavie",
+      "lastName": "Gaydon",
+      "jerseyNumber": 28,
+      "birthDate": "",
+      "nationality": "FR",
+      "contractUntil": "",
+      "position": "forward",
+      "team": "Damlaget"
+    },
+    {
+      "firstName": "Emmy",
+      "lastName": "Nordström-Åmark",
+      "jerseyNumber": 44,
+      "birthDate": "",
+      "nationality": "SE",
+      "contractUntil": "",
+      "position": "goalkeeper",
+      "team": "Damlaget"
+    },
+    {
+      "firstName": "Fanny",
+      "lastName": "Riise",
+      "jerseyNumber": 61,
+      "birthDate": "",
+      "nationality": "NO",
+      "contractUntil": "",
+      "position": "forward",
+      "team": "Damlaget"
+    },
+    {
+      "firstName": "Frida",
+      "lastName": "Grandelius",
+      "jerseyNumber": 89,
+      "birthDate": "",
+      "nationality": "SE",
+      "contractUntil": "",
+      "position": "forward",
+      "team": "Damlaget"
+    },
+    {
+      "firstName": "Jordyn",
+      "lastName": "Bear",
+      "jerseyNumber": 94,
+      "birthDate": "",
+      "nationality": "CA",
+      "contractUntil": "",
+      "position": "forward",
       "team": "Damlaget"
     }
   ]
