@@ -1,0 +1,19 @@
+{
+  "games": [
+    {
+      "id": "manual_1778517330214",
+      "team": "men",
+      "seasonUuid": "xs4m9qupsi",
+      "opponent": "BIK Karlskoga",
+      "opponentShort": "BIK",
+      "date": "2026-06-01",
+      "time": "19:00",
+      "isHome": true,
+      "venue": "Behrn Arena",
+      "league": "Försäsong",
+      "badge": "Försäsong",
+      "result": null,
+      "detail": null
+    }
+  ]
+}
