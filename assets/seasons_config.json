@@ -1,0 +1,102 @@
+{
+  "mensSeasons": [
+    {
+      "uuid": "ndcf81nlb3",
+      "name": "2026/27",
+      "league": "SHL",
+      "ssgtUuid": "qa98unlbd6",
+      "playoffStatsUuid": null
+    },
+    {
+      "uuid": "xs4m9qupsi",
+      "name": "2025/26",
+      "league": "SHL",
+      "ssgtUuid": "iuzqg7dqk9",
+      "playoffStatsUuid": "zg0pa4po75"
+    },
+    {
+      "uuid": "qeb-73bZkIm9A",
+      "name": "2024/25",
+      "league": "SHL",
+      "ssgtUuid": "qeb-73qtP8d19",
+      "playoffStatsUuid": "fg2i6uu9dt"
+    },
+    {
+      "uuid": "qcz-3NvSZ2Cmh",
+      "name": "2023/24",
+      "league": "SHL",
+      "ssgtUuid": "qcz-3Nwp4dmpw",
+      "playoffStatsUuid": "qd4-8C2WU1vnl"
+    },
+    {
+      "uuid": "qbN-XMFfjGVt",
+      "name": "2022/23",
+      "league": "SHL",
+      "ssgtUuid": "qbN-6KVfJw7PO",
+      "playoffStatsUuid": "qbT-5I5tQVeoK"
+    },
+    {
+      "uuid": "qZl-8qa6OaFXf",
+      "name": "2021/22",
+      "league": "SHL",
+      "ssgtUuid": "qZl-8qb98ZuHk",
+      "playoffStatsUuid": "qbK-6ItYbfmcj"
+    },
+    {
+      "uuid": "qY7-AdVh5z1XJ",
+      "name": "2020/21",
+      "league": "SHL",
+      "ssgtUuid": "qY7-AdWvXPtqc",
+      "playoffStatsUuid": "qZh-ANEW14Q7pH"
+    },
+    {
+      "uuid": "qWX-334j11U5o1",
+      "name": "2019/20",
+      "league": "SHL",
+      "ssgtUuid": "qWX-33ui11Wxd3",
+      "playoffStatsUuid": null
+    },
+    {
+      "uuid": "qUv-YXiuQN45",
+      "name": "2018/19",
+      "league": "SHL",
+      "ssgtUuid": "qUv-YZf5HLUO",
+      "playoffStatsUuid": "qWV-2glH10QlBz"
+    },
+    {
+      "uuid": "qTJ-31qq2GnTk",
+      "name": "2017/18",
+      "league": "SHL",
+      "ssgtUuid": "qTJ-32KJ5vS2O",
+      "playoffStatsUuid": null
+    },
+    {
+      "uuid": "qRe-8DZAq1Cnh",
+      "name": "2016/17",
+      "league": "SHL",
+      "ssgtUuid": "qRh-1FuEGSokF",
+      "playoffStatsUuid": null
+    },
+    {
+      "uuid": "qQ9-65d2GpEht",
+      "name": "2015/16",
+      "league": "SHL",
+      "ssgtUuid": "qQ9-8647IhdEb",
+      "playoffStatsUuid": "qRf-2pfTM43yN"
+    },
+    {
+      "uuid": "qQ9-cee8xgqr7",
+      "name": "2014/15",
+      "league": "SHL",
+      "ssgtUuid": "qQ9-48c3aqAwr",
+      "playoffStatsUuid": null
+    },
+    {
+      "uuid": "qQ9-8038nkpiJ",
+      "name": "2013/14",
+      "league": "SHL",
+      "ssgtUuid": "qQ9-670815aKU9",
+      "playoffStatsUuid": null
+    }
+  ]
+}
