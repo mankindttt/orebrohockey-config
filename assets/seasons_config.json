@@ -1,13 +1,6 @@
 {
   "mensSeasons": [
     {
-      "uuid": "ndcf81nlb3",
-      "name": "2026/27",
-      "league": "SHL",
-      "ssgtUuid": "qa98unlbd6",
-      "playoffStatsUuid": null
-    },
-    {
       "uuid": "xs4m9qupsi",
       "name": "2025/26",
       "league": "SHL",
