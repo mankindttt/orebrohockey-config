@@ -11,18 +11,18 @@
     "enabled": true
   },
   {
-    "type": "podcast",
-    "enabled": true,
-    "title": "Podcast"
-  },
-  {
     "type": "newsFeed",
     "enabled": true,
     "title": "Nyheter"
   },
   {
-    "type": "youtube",
+    "type": "podcast",
     "enabled": true,
+    "title": "Podcast"
+  },
+  {
+    "type": "youtube",
+    "enabled": false,
     "title": "Highlights"
   },
   {
