@@ -5,15 +5,15 @@
     "title": "Nästa match"
   },
   {
-    "type": "podcast",
-    "enabled": true,
-    "title": "Podcast"
-  },
-  {
     "type": "ad",
     "id": "ad_1778181565015",
     "title": "Annons1",
     "enabled": true
+  },
+  {
+    "type": "podcast",
+    "enabled": true,
+    "title": "Podcast"
   },
   {
     "type": "newsFeed",
