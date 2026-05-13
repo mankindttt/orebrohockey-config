@@ -1,5 +1,10 @@
 [
   {
+    "type": "nextGame",
+    "enabled": true,
+    "title": "Nästa match"
+  },
+  {
     "type": "podcast",
     "enabled": true,
     "title": "Podcast"
@@ -9,11 +14,6 @@
     "id": "ad_1778181565015",
     "title": "Annons1",
     "enabled": true
-  },
-  {
-    "type": "nextGame",
-    "enabled": true,
-    "title": "Nästa match"
   },
   {
     "type": "newsFeed",
